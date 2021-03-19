@@ -1,2 +1,3 @@
 # Pong
-A version of Pong that I made. It includes an unfinished skin system where the colors of everything can be customized. So far this system only works by changing it in the code.
+
+To run Pong just download the jar and double click it. The ball increases in speed and bounces off the paddle at a sharper angle if the player's y movement is the same as the ball's y movement. The opposite is true. The ball will decrease in speed and bounce off the paddle at a wider angle if the player's y movement is the opposite as the ball's y movement. Pressing "ESCAPE" moves the user back a screen and pressing "C" just closes the game no-matter what screen the user is on.
